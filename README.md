@@ -1,3 +1,3 @@
 Pojects
 =======
-mkdir ~/Sawhorse
+$ mkdir ~/Sawhorse
